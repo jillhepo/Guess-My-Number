@@ -26,7 +26,6 @@ Ver en vivo en Vercel: (https://guess-my-number-two-topaz.vercel.app/)
 4. ¡Reinicia el juego cuando quieras jugar otra vez!
 
 🕹️ How to Play
----
 
 1. Enter a number between 1 and 20.
 2. Click the button to check your guess.
