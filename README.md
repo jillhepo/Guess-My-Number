@@ -10,7 +10,7 @@
 
 🚀 Demo
 
-Ver en vivo en Vercel: (https://tuproyecto.vercel.app)  
+Ver en vivo en Vercel: (https://guess-my-number-two-topaz.vercel.app/)  
 
 🛠️ Tecnologías utilizadas:
 
@@ -18,13 +18,14 @@ Ver en vivo en Vercel: (https://tuproyecto.vercel.app)
 - CSS3  
 - JavaScript (vanilla)
 
-🕹️ Cómo jugar / How to Play
+🕹️ Cómo jugar 
 
 1. Escribe un número entre 1 y 20.
 2. Haz clic en el botón para comprobar tu respuesta.
 3. Recibe pistas ("Muy alto", "Muy bajo") hasta acertar el número.
 4. ¡Reinicia el juego cuando quieras jugar otra vez!
 
+🕹️ How to Play
 ---
 
 1. Enter a number between 1 and 20.
